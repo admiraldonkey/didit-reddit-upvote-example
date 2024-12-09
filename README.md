@@ -29,6 +29,7 @@ The project is a work in progress and is not yet complete.
 4. Create the database schema by running the SQL commands in `schema.sql` in your database (eg. by running the commands in Supabase Query Editor)
 5. Run `npm run dev` to start the development server
 6. Open [http://localhost:3000](http://localhost:3000) with your browser to see the site
+7. Once deployed, be sure to update the homepage and callback URLs to the deployed site in your GitHub App settings.
 
 ## Potential future features
 
